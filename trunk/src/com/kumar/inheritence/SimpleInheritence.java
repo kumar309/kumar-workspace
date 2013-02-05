@@ -18,7 +18,7 @@ public class SimpleInheritence {
 		b.showK();
 		System.out.println();
 		
-		System.out.println("Sum of I+J+K is ");
+		System.out.println("Sum of I+J+K is: ");
 		b.sum();
 
 	}
