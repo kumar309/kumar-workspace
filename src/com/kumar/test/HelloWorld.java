@@ -10,6 +10,6 @@ package com.kumar.test;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello Git! this is my first merge commit");
+        System.out.println("Hello Git! this is my first commit");
     }
 }
