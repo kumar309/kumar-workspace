@@ -10,7 +10,8 @@ public class TwoSum {
     public static void main(String[] args) {
         TwoSum twoSum = new TwoSum();
         int[] nums = {3,-1,0,4,2,5};
-        int target = 1;
+        int target = 9;
+
         int[] res = new int[2];
         res = twoSum.twoSum(nums,target);
         for(int i:res)
